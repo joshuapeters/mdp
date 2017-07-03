@@ -140,6 +140,15 @@ var mdp_grammar = {
       "are racist",
       "have fake mental illnesses",
       "write code for a living",
-      "don't like cussing"
+      "don't like cussing",
+      "eat a lot of avocado toast",
+      "crowd surf feet firts",
+      "are bald",
+      "nurse their hangovers at work",
+      "are really into nerd culture",
+      "don't know how to read",
+      "are uncomfortably into coffee",
+      "write terrible poetry and share it with their ex-girlfriends",
+      "had a baby in their early twenties"
   ]
 };
