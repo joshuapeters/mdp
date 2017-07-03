@@ -13,6 +13,7 @@ var mdp_grammar = {
   ],
   "action" : 
   [
+    "uhhh.... #action#",
     "punch myself in the dick",
     "cry myself to sleep",
     "shotgun a beer",
@@ -44,6 +45,7 @@ var mdp_grammar = {
   ],
   "genre":
   [
+      "uhh.... #genre#",
       "shoegaze",
       "emo",
       "rock",
@@ -61,6 +63,7 @@ var mdp_grammar = {
   ],
   "band" : 
   [
+      "uhh... #band#",
       "Title Fight",
       "Tigers Jaw",
       "Nada Surf",
@@ -173,6 +176,7 @@ var mdp_grammar = {
   ],
   "descriptor" : 
   [
+      "uhh... #descriptor#",
       "are really sad all the time",
       "like drinking a lot",
       "wear Nirvana t-shirts",
