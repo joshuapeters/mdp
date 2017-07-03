@@ -150,12 +150,16 @@ var mdp_grammar = {
       "are uncomfortably into coffee",
       "write terrible poetry and share it with their ex-girlfriends",
       "had a baby in their early twenties",
-      "who think American Football is emo",
-      "who think American Football isn't emo",
+      "think American Football is emo",
+      "think American Football isn't emo",
       "don't know how to play guitar",
       "covered blink-182 songs in high school",
       "have been on Sophie's Floorboard once",
       "went to Coachella and got pregnant",
-      "like #band#"
+      "like #band#",
+      "shop at Urban Outfitters",
+      "enjoy hiking",
+      "don't like #band#",
+      "think #band# sounds like #band#"
   ]
 };
