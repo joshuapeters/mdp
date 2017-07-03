@@ -4,7 +4,7 @@ var mdp_grammar = {
   [ 
        "#band# is just #band# for people who #descriptor#.",
        "#band# is just #band#.",
-       "#band# is just #band# for people who think #genre# is a real genre.
+       "#band# is just #band# for people who think #genre# is a real genre."
   ],
   "genre":
   [
