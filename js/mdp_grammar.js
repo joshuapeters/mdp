@@ -4,7 +4,33 @@ var mdp_grammar = {
   [ 
        "#band# is just #band# for people who #descriptor#.",
        "#band# is just #band#.",
-       "#band# is just #band# for people who think #genre# is a real genre."
+       "#band# is just #band# for people who think #genre# is a real genre.",
+       "#band# is just #band# for people who don't like #band#.",
+       "#band#? I love music for people who #descriptor#.",
+       "#band#? I think you mean #band#",
+       "#band#? I think you mean '#action#'.",
+       "I could listen to #band#, or I could just #action# and #action#."
+  ],
+  "action" : 
+  [
+    "punch myself in the dick",
+    "cry myself to sleep",
+    "shotgun a beer",
+    "crack open a cold one with the boys",
+    "buy some converse high tops",
+    "play some Tony Hawks Pro Skater 2",
+    "play guitar hero",
+    "roll around in some pizza",
+    "listen to #band#",
+    "commit arson",
+    "disrespect my parents",
+    "write some really angsty poetry",
+    "learn how to play real music",
+    "listen to trap music on Soundcloud",
+    "go hiking",
+    "eat some granola",
+    "get real swole",
+    "play some sports",
   ],
   "genre":
   [
