@@ -142,7 +142,7 @@ var mdp_grammar = {
       "write code for a living",
       "don't like cussing",
       "eat a lot of avocado toast",
-      "crowd surf feet firts",
+      "crowd surf feet first",
       "are bald",
       "nurse their hangovers at work",
       "are really into nerd culture",
