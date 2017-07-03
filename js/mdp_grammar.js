@@ -200,7 +200,6 @@ var mdp_grammar = {
       "think Anthony Fantano is the only objective opinion of music",
       "think Pitchfork is the only objective opinion of music",
       "are racist",
-      "have fake mental illnesses",
       "write code for a living",
       "don't like cussing",
       "eat a lot of avocado toast",
