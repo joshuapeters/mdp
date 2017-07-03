@@ -1,6 +1,28 @@
 var mdp_grammar = {
   "origin": "#sentence#",
-  "sentence" : [ "#band# is just #band# for people who #descriptor#." ],
+  "sentence" : 
+  [ 
+       "#band# is just #band# for people who #descriptor#.",
+       "#band# is just #band#.",
+       "#band# is just #band# for people who think #genre# is a real genre.
+  ],
+  "genre":
+  [
+      "shoegaze",
+      "emo",
+      "rock",
+      "hip hop",
+      "rap",
+      "classic rock",
+      "stoner metal",
+      "cloud rap",
+      "jazz",
+      "emotional hardcore",
+      "progressive rock",
+      "slam poetry",
+      "twinklepop",
+      "hardcore"
+  ],
   "band" : 
   [
       "Title Fight",
