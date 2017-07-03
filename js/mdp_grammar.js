@@ -62,7 +62,9 @@ var mdp_grammar = {
       "progressive rock",
       "slam poetry",
       "twinklepop",
-      "hardcore"
+      "hardcore",
+      "pop punk",
+      "indie rock"
   ],
   "band" : 
   [
@@ -175,7 +177,8 @@ var mdp_grammar = {
       "Metal™",
       "Tool",
       "A Day To Remember",
-      "Foo Fighters"
+      "Foo Fighters",
+      "Pop Punk™"
   ],
   "descriptor" : 
   [
