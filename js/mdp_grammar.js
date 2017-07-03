@@ -41,7 +41,10 @@ var mdp_grammar = {
     "pretend everything is okay",
     "break up with my significant other",
     "pretend to skateboard",
-    "listen to some #genre#"
+    "listen to some #genre#",
+    "make shitty joke websites about the scene",
+    "browse reddit",
+    "make a Millions of Dead Posers rip-off facebook page"
   ],
   "genre":
   [
