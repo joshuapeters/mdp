@@ -8,7 +8,7 @@ var mdp_grammar = {
        "#band# is just #band# for people who don't like #band#.",
        "#band#? I love music for people who #descriptor#.",
        "#band#? I think you mean #band#.",
-       "#band#? I think you mean '#action#'.",
+       "#band#? That's a weird way to say '#action#'.",
        "I could listen to #band#, or I could just #action# and #action#."
   ],
   "action" : 
