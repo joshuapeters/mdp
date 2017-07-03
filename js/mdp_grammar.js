@@ -20,7 +20,7 @@ var mdp_grammar = {
     "buy some converse high tops",
     "play some Tony Hawks Pro Skater 2",
     "play guitar hero",
-    "roll around in some pizza",
+    "eat some pizza",
     "listen to #band#",
     "commit arson",
     "disrespect my parents",
@@ -31,6 +31,16 @@ var mdp_grammar = {
     "eat some granola",
     "get real swole",
     "play some sports",
+    "try to talk to girls",
+    "talk about how much I hate my home town",
+    "get drunk",
+    "get stoned",
+    "scream nonsense",
+    "listen to a vacuum cleaner",
+    "pretend everything is okay",
+    "break up with my significant other",
+    "pretend to skateboard",
+    "listen to some #genre#"
   ],
   "genre":
   [
